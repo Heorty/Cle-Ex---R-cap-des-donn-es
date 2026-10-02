@@ -1,0 +1,6 @@
+{
+  "name": "Clé d'Ex Cl225 — Observatoire & Synthèse",
+  "description": "Plateforme d'analyse et de visualisation des résultats de consultation pour la conception de la Clé d'Ex de la promotion Cl225.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
